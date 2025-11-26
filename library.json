@@ -1,0 +1,29 @@
+{
+    "name": "persistent-storage",
+    "version": "0.1.0",
+    "description": "persistent storage on an eeprom chip or using eemem",
+    "keywords": "storage, eeprom",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/bernhardlang/eeprom.git"
+    },
+    "authors":
+    [
+        {
+            "name": "Bernhard Lang",
+            "email": "bernhard.lang@gmx.ch",
+            "url": "www.bernhard-lang.net",
+            "maintainer": true
+        },
+        {
+            "name": "Dominique Lovy"
+        }
+    ],
+    "licence": "GPL2",
+    "homepage": "http://nowhere.x",
+    "dependencies": {
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}
